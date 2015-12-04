@@ -1,0 +1,19 @@
+{
+  "name": "rejuvenation",
+  "version": "0.0.0",
+  "authors": [
+    "osidorkin <osidorkin@i-novus.ru>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "masonry": "~3.3.2"
+  }
+}
